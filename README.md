@@ -136,4 +136,4 @@ The main libraries used in this project are listed in `requirements.txt`. Key de
 - `tpot`
 
 ## Acknowledgements
-This project was inspired by and developed following a YouTube playlist on metaheuristic algorithms. It serves as a practical application of the concepts taught in the series.
+This project was inspired by and developed following a YouTube playlist (https://youtube.com/playlist?list=PLZsOBAyNTZwZprhl9wyoEn6Hkv9JT9EZD&feature=shared) on metaheuristic algorithms. It serves as a practical application of the concepts taught in the series.

@@ -98,8 +98,8 @@ To explore these notebooks, please follow the steps below:
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/your-repository-name.git
-    cd your-repository-name
+    git https://github.com/majid-200/MetaheuristicAlgorithms.git
+    cd MetaheuristicAlgorithms
     ```
 
 2.  **Set up a virtual environment (recommended):**

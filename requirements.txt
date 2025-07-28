@@ -1,0 +1,8 @@
+numpy
+pandas
+matplotlib
+scikit-learn
+geneticalgorithm2
+pyswarm
+tpot
+jupyter

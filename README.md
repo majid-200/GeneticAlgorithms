@@ -80,6 +80,12 @@ This notebook applies PSO to the same steel strength optimization problem.
 
 ### 3. Simulated Annealing Implementation
 
+#### `Simulated_Annealing.ipynb`
+This notebook serves as a foundational introduction to the Simulated Annealing algorithm with a clear, **from-scratch implementation**.
+- It visualizes the core concepts by solving a simple 3D function: `f(x, y, z) = (x-4)² + (y-5)² + (z+6)²`.
+- It includes excellent visualizations, including a comparison of how different `cooling_rate` values affect the temperature schedule and final solution quality.
+- A separate section provides a detailed 3D surface plot to visualize the algorithm's search path as it explores a more complex objective function, helping build intuition.
+
 #### `SA_Optimizing_Steel_Strength.ipynb`
 Applies Simulated Annealing (SA) to the steel strength optimization problem. This notebook provides:
 - A **from-scratch implementation** of the SA algorithm, clearly showing the concepts of temperature, cooling schedule, and acceptance probability.
